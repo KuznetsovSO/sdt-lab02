@@ -1,6 +1,7 @@
 #include <iostream>
 
  using namespace std;
+// учебная
  int main()
  {
  int a, b;
